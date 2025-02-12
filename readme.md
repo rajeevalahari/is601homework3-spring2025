@@ -12,6 +12,6 @@
 3. pytest --pylint --cov
 
 ## My Understandings
-The calculator in part2 uses static methods in Calculator
-Stored and called using Operation function
-Testing is done with respect to the static methods in Calculator.
+1. The calculator in part2 uses static methods in Calculator
+2. Stored and called using Operation function
+3. Testing is done with respect to the static methods in Calculator.
