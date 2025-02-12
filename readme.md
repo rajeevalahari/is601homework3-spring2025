@@ -11,3 +11,5 @@
 2. pytest --pylint
 3. pytest --pylint --cov
 
+## My Understandings
+1. The Calculator in main contains basic calculatons with functions
