@@ -1,3 +1,7 @@
+"""
+This module contains tests for the calculator operations and Calculation class.
+"""
+# pylint: disable=unnecessary-dunder-call, invalid-name
 from decimal import Decimal
 import pytest
 from calculator.calculation import Calculation
